@@ -10,6 +10,9 @@ body{
 }
 .Tekst{
 	width:100%;
+	background-color:rgba(45,45,45,0.85);
+	border-radius:10px;
+	
 }
 .Tekst p{
 	padding-left: 10px;
