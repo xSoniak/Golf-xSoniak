@@ -19,6 +19,11 @@ body{
 	padding-right: 5%;
 	font-size: 1.5em;
 }
+.Tekst ul{
+	list-style-type: none;
+	text-align:center;
+	font-size: 1.5em;
+}
 .Tekst h1{
 	font-size: 3em;
 	text-align: center;
