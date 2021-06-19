@@ -4,6 +4,7 @@ body{
 	background-image:url(img/GTI.png);
 	color:white;
 }
+#photo1{float:left;}
 #photo1 img{
 	width:100%;
 	object-fit: cover;
@@ -13,10 +14,9 @@ body{
 	width:100%;
 	background-color:rgba(45,45,45,0.85);
 	border-radius:15px;
+	margin-bottom:5px;
 }
 .Tekst p{
-	padding-left: 5%;
-	padding-right: 5%;
 	font-size: 1.5em;
 }
 .Tekst ul{
