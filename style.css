@@ -4,11 +4,19 @@ body{
 	background-image:url(img/GTI.png);
 	color:white;
 }
-#photo1{float:left;}
-#photo1 img{
-	width:100%;
-	height: auto;
-	display: block;
+#photo1{
+	background-image:url(pictures/Golf_1.jpg);
+	    height: 100vh;
+		background-repeat: no-repeat;
+		background-size:cover;
+		 background-position: center;
+}
+#photo2{
+	background-image:url(pictures/Golf_2.jpg);
+	    height: 100vh;
+		background-repeat: no-repeat;
+		background-size:cover;
+		 background-position: center;
 }
 .Tekst{
 	float:left;
