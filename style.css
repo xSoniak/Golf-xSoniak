@@ -10,4 +10,11 @@ body{
 }
 .Tekst{
 	padding: 10px;
+	font-size: 1.8em;
+	width:100%;
+}
+.Tekst h1{
+	padding: 1px;
+	font-size: 2em;
+	text-aling:center;
 }
