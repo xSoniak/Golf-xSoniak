@@ -18,13 +18,9 @@ body{
 }
 .Tekst p{
 	font-size: 1.5em;
-}
-.Tekst ul{
-	list-style-type: none;
 	text-align:center;
-	font-size: 1.5em;
 }
 .Tekst h1{
-	font-size: 3em;
+	font-size: 3.2em;
 	text-align: center;
 }
