@@ -1,7 +1,7 @@
 body{
 	margin:0;
 	padding:0;
-	background-color:rgb(90,90,90);
+	background-image:url(img/GTI.png);
 	color:white;
 }
 #photo1 img{
@@ -9,12 +9,14 @@ body{
 	object-fit: cover;
 }
 .Tekst{
-	padding: 10px;
-	font-size: 1.8em;
 	width:100%;
 }
+.Tekst p{
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 1.5em;
+}
 .Tekst h1{
-	padding: 1px;
-	font-size: 2em;
-	text-aling:center;
+	font-size: 3em;
+	text-align: center;
 }
