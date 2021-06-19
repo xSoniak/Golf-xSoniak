@@ -9,6 +9,7 @@ body{
 	object-fit: cover;
 }
 .Tekst{
+	float:left;
 	width:100%;
 	background-color:rgba(45,45,45,0.85);
 	border-radius:15px;
