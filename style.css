@@ -7,7 +7,7 @@ body{
 #photo1{float:left;}
 #photo1 img{
 	width:100%;
-	object-fit: cover;
+	height: auto;
 }
 .Tekst{
 	float:left;
