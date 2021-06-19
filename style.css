@@ -2,9 +2,13 @@ body{
 	margin:0;
 	padding:0;
 	background-color:rgb(90,90,90);
+	color:white;
 }
 #photo1 img{
 	height:1%;
 	width:100%;
-	object-fit: cover;
+	object-fit: contain;
+}
+.Tekst{
+	padding: 10px;
 }
