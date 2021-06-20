@@ -102,7 +102,7 @@ input[type="checkbox"]{
 }
 .main{
   position: absolute;
-  top: 35%;
+  top: 34%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -114,6 +114,9 @@ input[type="checkbox"]{
 .main img{
 	max-width: 100%;
   height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .main div{
   font-size: 40px;
