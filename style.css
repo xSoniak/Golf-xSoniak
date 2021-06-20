@@ -92,7 +92,7 @@ a.active,a:hover{
   }
 }
 section{
-  background: url(bg1.jpg) no-repeat;
+  background: url(pictures/Golf_1.jpg) no-repeat;
   background-size: cover;
   height: calc(100vh - 80px);
 }
