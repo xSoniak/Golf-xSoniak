@@ -5,7 +5,7 @@
   font-family: 'Poppins', sans-serif;
 }
 body{
-	background-color:rgba(242,242,242,1);
+	background-color:rgba(42,42,42,1);
 } 
 nav{
   display: flex;
@@ -119,6 +119,7 @@ input[type="checkbox"]{
   margin-right: auto;
 }
 .main div{
-  font-size: 40px;
+color:rgb(240,240,240);
+  font-size: 150%;
   font-weight: 700;
 }
