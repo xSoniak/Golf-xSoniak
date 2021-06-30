@@ -167,11 +167,11 @@ text-align:center;
 border-collapse:collapse;	
 }
 .main td{
-	border:solid 1px black;
+	border:solid 1px white;
 	font-size:60%;
 }
 .main th{
-	border:solid 1px black;
+	border:solid 2px white;
 	font-size:70%;
 }
 #suma{
