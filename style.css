@@ -176,5 +176,6 @@ border-collapse:collapse;
 }
 #suma{
 	font-size:75%;
-	color:rgb(200,0,0);
+	color:black;
+	background-color:white;
 }
