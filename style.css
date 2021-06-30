@@ -161,8 +161,20 @@ margin:1%;
 	font-size:60%;
 }
 .main table{
+	margin-left:auto;
+	margin-right:auto;
+text-align:center;
 border-collapse:collapse;	
 }
-.main td,th{
+.main td{
 	border:solid 1px black;
+	font-size:60%;
+}
+.main th{
+	border:solid 1px black;
+	font-size:70%;
+}
+#suma{
+	font-size:75%;
+	color:rgb(200,0,0);
 }
