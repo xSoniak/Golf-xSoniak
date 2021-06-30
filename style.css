@@ -160,3 +160,9 @@ margin:1%;
 .mainh div p{
 	font-size:60%;
 }
+.main table{
+border-collapse:collapse;	
+}
+.main td,th{
+	border:solid 1px black;
+}
