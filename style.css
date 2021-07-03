@@ -174,7 +174,7 @@ border-collapse:collapse;
 	border:solid 2px white;
 	font-size:70%;
 }
-.main th,td,tr::visited{
+.main th,td,tr:visited{
 	color:white;
 }
 #suma{
