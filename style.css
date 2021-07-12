@@ -177,6 +177,15 @@ border-collapse:collapse;
 .main a:visited{
 	color:white;
 }
+.main a:link{
+	color:white;
+}
+.main a:active{
+	color:white;
+}
+.main a:hover{
+	color:gray;
+}
 #suma{
 	font-size:75%;
 	color:black;
